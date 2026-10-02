@@ -1,0 +1,24 @@
+total 1172
+drwxrwxr-x 6 salma-rabie salma-rabie   4096 Oct 26 13:25 .
+drwxrwxr-x 3 salma-rabie salma-rabie   4096 Oct 26 11:23 ..
+-rw-rw-r-- 1 salma-rabie salma-rabie  18659 Oct 26 13:20 command.cc
+-rw-rw-r-- 1 salma-rabie salma-rabie   1344 Oct 24 22:51 command.h
+-rw-rw-r-- 1 salma-rabie salma-rabie 351192 Oct 26 13:20 command.o
+-rw-r--r-- 1 salma-rabie salma-rabie     45 Oct 26 13:15 err.txt
+drwxrwxr-x 8 salma-rabie salma-rabie   4096 Oct 24 19:47 .git
+drwxrwxr-x 3 salma-rabie salma-rabie   4096 Oct 24 19:46 .github
+-rw-rw-r-- 1 salma-rabie salma-rabie     17 Oct 24 19:46 .gitignore
+-rw-rw-r-- 1 salma-rabie salma-rabie    660 Oct 26 13:25 log.txt
+-rwxrwxr-x 1 salma-rabie salma-rabie 276840 Oct 25 10:53 main
+-rw-rw-r-- 1 salma-rabie salma-rabie    506 Oct 26 12:01 Makefile
+-rwxrwxr-x 1 salma-rabie salma-rabie 275464 Oct 26 13:20 myshell
+-rw-r--r-- 1 salma-rabie salma-rabie      0 Oct 26 13:25 output1.txt
+-rw-rw-r-- 1 salma-rabie salma-rabie    202 Oct 24 19:46 README.md
+-rwxrwxr-x 1 salma-rabie salma-rabie    960 Oct 24 19:46 run_all_and_sum.sh
+drwxrwxr-x 2 salma-rabie salma-rabie   4096 Oct 25 00:32 testcases
+-rw-rw-r-- 1 salma-rabie salma-rabie   2213 Oct 24 22:51 tokenizer.cc
+-rw-rw-r-- 1 salma-rabie salma-rabie    722 Oct 25 00:29 tokenizer.h
+-rw-rw-r-- 1 salma-rabie salma-rabie 203216 Oct 26 13:20 tokenizer.o
+-rw-rw-r-- 1 salma-rabie salma-rabie   3802 Oct 26 11:52 Untitled-1.c
+drwxrwxr-x 2 salma-rabie salma-rabie   4096 Oct 25 10:10 .vscode
+"second line"
